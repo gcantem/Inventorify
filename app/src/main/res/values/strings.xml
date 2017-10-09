@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inventorify</string>
+    <string name="product_name_tooltip">Enter a name</string>
+    <string name="product_barcode_tooltip">Enter a barcode</string>
+    <string name="product_quantity_tooltip">Enter a quantity</string>
+    <string name="product_saleprice_tooltip">Enter a sale price</string>
+    <string name="new_product_button">Save</string>
+    <string name="barcode_button">Barcode</string>
+    <string name="product_cost_tooltip">Enter the cost</string>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>COP</item>
+    </string-array>
+
+    <!-- LoginActivity -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="signin_button">Sign In</string>
+    <string name="welcome_to_inventorify">Welcome to Inventorify</string>
+    <string name="signout_button">Sign Out</string>
+    <string name="facebook_app_id">151810878754860</string>
+
+
+</resources>

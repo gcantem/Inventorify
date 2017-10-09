@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416482134906",
+    "firebase_url": "https://inventorify-unal.firebaseio.com",
+    "project_id": "inventorify-unal",
+    "storage_bucket": "inventorify-unal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416482134906:android:a362ef5b61399827",
+        "android_client_info": {
+          "package_name": "co.edu.unal.inventorify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416482134906-ktnk9qkki191qnvak958t5k4ib9dj9sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unal.inventorify",
+            "certificate_hash": "bca402a7318c03d170b89fd35c94d8447ac847b5"
+          }
+        },
+        {
+          "client_id": "416482134906-bjg6hqihl663j9rq0kttn8p3do665ks0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mgufCVquFN6eVNHVPjnwoTtgrxZNvNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416482134906-bjg6hqihl663j9rq0kttn8p3do665ks0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
