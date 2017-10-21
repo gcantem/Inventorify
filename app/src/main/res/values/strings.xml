@@ -11,6 +11,7 @@
         <item>USD</item>
         <item>COP</item>
     </string-array>
+    <string name="product_list_menu_label">Products</string>
 
     <!-- LoginActivity -->
     <string name="hint_email">Email</string>

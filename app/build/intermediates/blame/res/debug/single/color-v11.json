@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

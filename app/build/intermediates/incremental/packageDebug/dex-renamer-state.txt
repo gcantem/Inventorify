@@ -1,0 +1,7 @@
+#Fri Oct 20 22:09:15 COT 2017
+base.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6686938ca0cfd63739c76e059692b0f0aab17785
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dd91318b4e0c52c167a065c04fc0f50044c8f62c/classes.dex
+base.1=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dd91318b4e0c52c167a065c04fc0f50044c8f62c
+file.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6686938ca0cfd63739c76e059692b0f0aab17785/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/raider/.android/build-cache/46e64d4281e84843ad72cc6cf981090500b92147/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/raider/.android/build-cache/46e64d4281e84843ad72cc6cf981090500b92147/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/raider/.android/build-cache/46e64d4281e84843ad72cc6cf981090500b92147/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

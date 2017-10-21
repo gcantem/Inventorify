@@ -3,8 +3,12 @@ package co.edu.unal.inventorify;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 
+import co.edu.unal.inventorify.activities.product.ListProductsActivity;
 import co.edu.unal.inventorify.activities.product.NewProductActivity;
 
 import android.content.Intent;
@@ -64,9 +68,23 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
         });
 
     }
-    
-    public void newProduct(View view){
-        startActivity(new Intent(this, NewProductActivity.class));
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.product_list_menu:
+                startActivity(new Intent(this, ListProductsActivity.class));
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 
     private void signOut(){

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/raider/.android/build-cache/f2ea892537d91c54690103db1f6e394d25ef3f07/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

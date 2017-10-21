@@ -1,0 +1,4 @@
+#Wed Oct 18 21:59:34 COT 2017
+base.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

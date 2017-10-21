@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/raider/.android/build-cache/8ec7697f3611daf5e49957a485e1fe82ca2a403e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/raider/.android/build-cache/8ec7697f3611daf5e49957a485e1fe82ca2a403e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

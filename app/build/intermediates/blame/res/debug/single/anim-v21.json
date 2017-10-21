@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/raider/.android/build-cache/8ec7697f3611daf5e49957a485e1fe82ca2a403e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/raider/.android/build-cache/8ec7697f3611daf5e49957a485e1fe82ca2a403e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
