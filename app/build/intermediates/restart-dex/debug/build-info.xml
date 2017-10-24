@@ -6,31 +6,25 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1508556594371"
+    timestamp="1508813329258"
     token="7838309681825672545"
-    verifier="FIELD_ADDED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1430" />
+        duration="531" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="24" />
+        duration="33" />
     <task
         name="verifier"
-        duration="14" />
+        duration="7" />
 
     <artifact
-        location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
         location="/home/raider/AndroidStudioProjects/Inventorify/app/build/outputs/apk/app-debug.apk"
@@ -38,7 +32,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1508552889348"
+        timestamp="1508813111017"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -79,33 +73,10 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1508555350440"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1508556594371"
-        verifier="FIELD_ADDED" >
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
+        timestamp="1508813329258"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/raider/AndroidStudioProjects/Inventorify/app/build/outputs/apk/app-debug.apk"

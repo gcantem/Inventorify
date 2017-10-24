@@ -28,6 +28,8 @@ MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/raider/.android/buil
 application
 ADDED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml:8:5-41:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/raider/.android/build-cache/b09e849233b1338ab93fe503394bbca67374be57/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] /home/raider/.android/build-cache/91d3a58bc810c1aefcde6e40bba1c6ff56d34a30/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /home/raider/.android/build-cache/ad4a1b155b0f38c8015dad54b572fae40794a9cd/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth:11.4.2] /home/raider/.android/build-cache/f534d59586dbe6c9c1ad61b8a5941cbfe7a0b713/output/AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.firebase:firebase-auth-license:11.4.2] /home/raider/.android/build-cache/c9e65cc8dc9e7f5bf0833c89c8db64706f6f4bbf/output/AndroidManifest.xml:5:5-20
 MERGED from [com.firebaseui:firebase-ui-database:2.0.1] /home/raider/.android/build-cache/74d94801f628b31aaeea877f9bf5360f5afc9de8/output/AndroidManifest.xml:13:5-17:19
@@ -136,6 +138,10 @@ ADDED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidMa
 uses-sdk
 INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/raider/.android/build-cache/b09e849233b1338ab93fe503394bbca67374be57/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:11.4.2] /home/raider/.android/build-cache/99968e1afabb1e7e4c1db988af6f278d20c9d2aa/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] /home/raider/.android/build-cache/2e3690cec414bc4f0c3efe89ec0956f28513d5fb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] /home/raider/.android/build-cache/91d3a58bc810c1aefcde6e40bba1c6ff56d34a30/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /home/raider/.android/build-cache/ad4a1b155b0f38c8015dad54b572fae40794a9cd/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-auth:11.4.2] /home/raider/.android/build-cache/f534d59586dbe6c9c1ad61b8a5941cbfe7a0b713/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-auth-license:11.4.2] /home/raider/.android/build-cache/c9e65cc8dc9e7f5bf0833c89c8db64706f6f4bbf/output/AndroidManifest.xml:4:5-43
 MERGED from [com.firebaseui:firebase-ui-database:2.0.1] /home/raider/.android/build-cache/74d94801f628b31aaeea877f9bf5360f5afc9de8/output/AndroidManifest.xml:7:5-9:41
