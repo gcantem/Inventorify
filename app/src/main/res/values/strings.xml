@@ -12,6 +12,8 @@
         <item>COP</item>
     </string-array>
     <string name="product_list_menu_label">Products</string>
+    <string name="new_label">New</string>
+    <string name="update_label">Update</string>
 
     <!-- LoginActivity -->
     <string name="hint_email">Email</string>

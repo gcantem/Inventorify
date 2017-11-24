@@ -1,4 +1,4 @@
-#Mon Oct 23 21:48:51 COT 2017
-base.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+#Fri Nov 24 07:04:21 COT 2017
+base.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

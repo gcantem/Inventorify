@@ -9,8 +9,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnFailureListener;
@@ -36,18 +38,27 @@ public class NewProductActivity extends AppCompatActivity {
     private ImageView productImageView;
     private String productKey;
 
+    private String label;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_new_product);
         mDatabase = FirebaseDatabase.getInstance().getReference();
         mStorage = FirebaseStorage.getInstance().getReference();
+
+        Intent intent = getIntent();
+        label = intent.getStringExtra(ListProductsActivity.EXTRA_OPERATION);
+        ((Button)findViewById(R.id.newProductButton)).setText(label);
+
         barcodeInfo = (EditText) findViewById(R.id.productBarcodeEditText);
         productImageView = (ImageView) findViewById(R.id.productImageView);
     }
 
     public void saveProduct(View view){
-        productKey = mDatabase.child("products").push().getKey();
+        if(label.equals(getString(R.string.new_label))) {
+            productKey = mDatabase.child("products").push().getKey();
+        }
         saveImage();
     }
 
@@ -56,17 +67,21 @@ public class NewProductActivity extends AppCompatActivity {
         String productBarcode = ((EditText)findViewById(R.id.productBarcodeEditText)).getText().toString();
         int productQuantity = Integer.parseInt(((EditText)findViewById(R.id.productQuantityEditText)).getText().toString());
         int productPrice = Integer.parseInt(((EditText)findViewById(R.id.productSalePriceEditText)).getText().toString());
+        String productPriceCurrency = (String) ((Spinner) findViewById(R.id.productSalePriceSpinner)).getSelectedItem();
         int productCost = Integer.parseInt(((EditText)findViewById(R.id.productCostEditText)).getText().toString());
+        String productCostCurrency = (String) ((Spinner) findViewById(R.id.productCostSpinner)).getSelectedItem();
         Product product = new Product(productKey);
         product.setName(productName);
         product.setBarcode(productBarcode);
         product.setQuantity(productQuantity);
         product.setPrice(productPrice);
+        product.setPriceCurrency(productPriceCurrency);
         product.setCost(productCost);
+        product.setCostCurrency(productCostCurrency);
         product.setImageURL(imageURL);
         mDatabase.child("products").child(productKey).setValue(product);
         Toast.makeText(getApplicationContext(), productName + " was inserted!", Toast.LENGTH_SHORT).show();
-        clear();
+        finish();
     }
 
     private void saveImage(){
@@ -93,15 +108,6 @@ public class NewProductActivity extends AppCompatActivity {
 
     public void launchBarcodeScanner(View view){
         startActivity(new Intent(this, ZXingActivity.class));
-    }
-
-    public void clear(){
-        ((EditText)findViewById(R.id.productNameEditText)).setText("");
-        ((EditText)findViewById(R.id.productBarcodeEditText)).setText("");
-        ((EditText)findViewById(R.id.productQuantityEditText)).setText("");
-        ((EditText)findViewById(R.id.productSalePriceEditText)).setText("");
-        ((EditText)findViewById(R.id.productCostEditText)).setText("");
-        ((ImageView)findViewById(R.id.productImageView)).setImageResource(android.R.color.transparent);
     }
 
     public void takePhoto(View view) {

@@ -5,8 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -25,6 +25,9 @@ public class ListProductsActivity extends AppCompatActivity {
     private DatabaseReference products;
     private FirebaseRecyclerAdapter<Product, ProductHolder> adapter;
 
+    public static final String EXTRA_OPERATION = "co.edu.unal.inventorify.OPERATION";
+    public static final String EXTRA_SELECTED_PRODUCT = "co.edu.unal.inventorify.PRODUCT_SELECTED";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,7 +38,6 @@ public class ListProductsActivity extends AppCompatActivity {
 
         adapter = new FirebaseRecyclerAdapter<Product, ProductHolder>(
             Product.class,
-            //android.R.layout.two_line_list_item,
             R.layout.product_layout,
             ProductHolder.class,
             mDatabase) {
@@ -47,6 +49,15 @@ public class ListProductsActivity extends AppCompatActivity {
                 }
             };
         productsRecycler.setAdapter(adapter);
+        productsRecycler.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+//                Intent intent = new Intent(getApplicationContext(), NewProductActivity.class);
+//                intent.putExtra(EXTRA_OPERATION, getString(R.string.update_label));
+//                intent.putExtra(EXTRA_SELECTED_PRODUCT, company.getId());
+//                startActivity(intent);
+            }
+        });
     }
 
     @Override
@@ -57,7 +68,9 @@ public class ListProductsActivity extends AppCompatActivity {
 
 
     public void newProduct(View view){
-        startActivity(new Intent(this, NewProductActivity.class));
+        Intent intent = new Intent(this, NewProductActivity.class);
+        intent.putExtra(EXTRA_OPERATION, getString(R.string.new_label));
+        startActivity(intent);
     }
 
     public static class ProductHolder extends RecyclerView.ViewHolder {

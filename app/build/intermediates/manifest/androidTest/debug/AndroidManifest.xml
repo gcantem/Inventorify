@@ -13,7 +13,7 @@
         android:label="Tests for co.edu.unal.inventorify"
         android:targetPackage="co.edu.unal.inventorify" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

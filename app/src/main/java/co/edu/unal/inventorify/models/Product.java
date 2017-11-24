@@ -7,13 +7,15 @@ package co.edu.unal.inventorify.models;
  */
 public class Product {
 
-    public String uid;
-    public String name;
-    public String barcode;
-    public int quantity;
-    public int price;
-    public int cost;
-    public String imageURL;
+    private String uid;
+    private String name;
+    private String barcode;
+    private int quantity;
+    private int price;
+    private String priceCurrency;
+    private int cost;
+    private String costCurrency;
+    private String imageURL;
 
     public Product() {}
 
@@ -69,5 +71,21 @@ public class Product {
 
     public void setImageURL(String imageURL) {
         this.imageURL = imageURL;
+    }
+
+    public String getPriceCurrency() {
+        return priceCurrency;
+    }
+
+    public void setPriceCurrency(String priceCurrency) {
+        this.priceCurrency = priceCurrency;
+    }
+
+    public String getCostCurrency() {
+        return costCurrency;
+    }
+
+    public void setCostCurrency(String costCurrency) {
+        this.costCurrency = costCurrency;
     }
 }

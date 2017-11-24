@@ -8,32 +8,32 @@ package com.firebase.ui.database;
 
 public final class R {
     public static final class attr {
-        public static final int layoutManager = 0x7f010122;
-        public static final int reverseLayout = 0x7f010124;
-        public static final int spanCount = 0x7f010123;
-        public static final int stackFromEnd = 0x7f010125;
+        public static final int layoutManager = 0x7f0400b7;
+        public static final int reverseLayout = 0x7f04011c;
+        public static final int spanCount = 0x7f04012d;
+        public static final int stackFromEnd = 0x7f040133;
     }
     public static final class dimen {
-        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f080092;
-        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f080093;
-        public static final int item_touch_helper_swipe_escape_velocity = 0x7f080094;
+        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f07008e;
+        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f07008f;
+        public static final int item_touch_helper_swipe_escape_velocity = 0x7f070090;
     }
     public static final class id {
-        public static final int item_touch_helper_previous_elevation = 0x7f0e0005;
+        public static final int item_touch_helper_previous_elevation = 0x7f090063;
     }
     public static final class integer {
-        public static final int google_play_services_version = 0x7f090008;
+        public static final int google_play_services_version = 0x7f0a0006;
     }
     public static final class string {
-        public static final int common_google_play_services_unknown_issue = 0x7f070031;
+        public static final int common_google_play_services_unknown_issue = 0x7f0e0042;
     }
     public static final class styleable {
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125 };
-        public static final int RecyclerView_android_descendantFocusability = 1;
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f0400b7, 0x7f04011c, 0x7f04012d, 0x7f040133 };
         public static final int RecyclerView_android_orientation = 0;
+        public static final int RecyclerView_android_descendantFocusability = 1;
         public static final int RecyclerView_layoutManager = 2;
-        public static final int RecyclerView_reverseLayout = 4;
-        public static final int RecyclerView_spanCount = 3;
+        public static final int RecyclerView_reverseLayout = 3;
+        public static final int RecyclerView_spanCount = 4;
         public static final int RecyclerView_stackFromEnd = 5;
     }
 }
