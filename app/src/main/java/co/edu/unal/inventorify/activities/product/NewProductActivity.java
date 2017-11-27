@@ -2,12 +2,10 @@ package co.edu.unal.inventorify.activities.product;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.net.Uri;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -70,6 +68,8 @@ public class NewProductActivity extends AppCompatActivity {
         String productPriceCurrency = (String) ((Spinner) findViewById(R.id.productSalePriceSpinner)).getSelectedItem();
         int productCost = Integer.parseInt(((EditText)findViewById(R.id.productCostEditText)).getText().toString());
         String productCostCurrency = (String) ((Spinner) findViewById(R.id.productCostSpinner)).getSelectedItem();
+        int productGuarantee = Integer.parseInt(((EditText)findViewById(R.id.productGuaranteeEditText)).getText().toString());
+        String productGuaranteePeriod = (String) ((Spinner) findViewById(R.id.productGuaranteeSpinner)).getSelectedItem();
         Product product = new Product(productKey);
         product.setName(productName);
         product.setBarcode(productBarcode);
@@ -78,6 +78,8 @@ public class NewProductActivity extends AppCompatActivity {
         product.setPriceCurrency(productPriceCurrency);
         product.setCost(productCost);
         product.setCostCurrency(productCostCurrency);
+        product.setGuarantee(productGuarantee);
+        product.setGuaranteePeriod(productGuaranteePeriod);
         product.setImageURL(imageURL);
         mDatabase.child("products").child(productKey).setValue(product);
         Toast.makeText(getApplicationContext(), productName + " was inserted!", Toast.LENGTH_SHORT).show();

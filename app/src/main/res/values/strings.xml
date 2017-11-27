@@ -11,6 +11,11 @@
         <item>USD</item>
         <item>COP</item>
     </string-array>
+    <string-array name="guarantees">
+        <item>Days</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
     <string name="product_list_menu_label">Products</string>
     <string name="new_label">New</string>
     <string name="update_label">Update</string>
@@ -23,6 +28,8 @@
     <string name="welcome_to_inventorify">Welcome to Inventorify</string>
     <string name="signout_button">Sign Out</string>
     <string name="facebook_app_id">151810878754860</string>
+    <string name="image_content_description">Product\'s image</string>
+    <string name="product_guarantee_tooltip">Enter the guarantee</string>
 
 
 </resources>

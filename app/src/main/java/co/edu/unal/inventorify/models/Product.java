@@ -1,5 +1,7 @@
 package co.edu.unal.inventorify.models;
 
+import java.util.Date;
+
 /**
  * Inventorify
  * Created by Jhon Ramirez on 8/29/17.
@@ -16,6 +18,9 @@ public class Product {
     private int cost;
     private String costCurrency;
     private String imageURL;
+    private Date date;
+    private int guarantee;
+    private String guaranteePeriod;
 
     public Product() {}
 
@@ -87,5 +92,29 @@ public class Product {
 
     public void setCostCurrency(String costCurrency) {
         this.costCurrency = costCurrency;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public int getGuarantee() {
+        return guarantee;
+    }
+
+    public void setGuarantee(int guarantee) {
+        this.guarantee = guarantee;
+    }
+
+    public String getGuaranteePeriod() {
+        return guaranteePeriod;
+    }
+
+    public void setGuaranteePeriod(String guaranteePeriod) {
+        this.guaranteePeriod = guaranteePeriod;
     }
 }

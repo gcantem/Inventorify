@@ -4,6 +4,11 @@
         <item>USD</item>
         <item>COP</item>
     </string-array>
+    <string-array name="guarantees">
+        <item>Days</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
     <attr format="reference" name="constraintSet"/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -851,6 +856,7 @@
     <string name="google_storage_bucket" translatable="false">inventorify-unal.appspot.com</string>
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
+    <string name="image_content_description">Product\'s image</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="new_label">New</string>
     <string name="new_product_button">Save</string>
@@ -861,6 +867,7 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="product_barcode_tooltip">Enter a barcode</string>
     <string name="product_cost_tooltip">Enter the cost</string>
+    <string name="product_guarantee_tooltip">Enter the guarantee</string>
     <string name="product_list_menu_label">Products</string>
     <string name="product_name_tooltip">Enter a name</string>
     <string name="product_quantity_tooltip">Enter a quantity</string>
