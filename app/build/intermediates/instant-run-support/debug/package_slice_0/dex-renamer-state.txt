@@ -1,4 +1,4 @@
-#Mon Nov 27 06:06:55 COT 2017
+#Mon Nov 27 06:24:19 COT 2017
 base.0=/home/raider/AndroidStudioProjects/Inventorify/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

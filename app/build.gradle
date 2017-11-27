@@ -41,6 +41,7 @@ dependencies {
     compile 'com.android.support:design:25.3.1'
     compile 'me.dm7.barcodescanner:zxing:1.9'
     compile 'com.github.bumptech.glide:glide:3.8.0'
+    compile 'co.dift.ui.swipetoaction:library:1.1'
     testCompile 'junit:junit:4.12'
 }
 

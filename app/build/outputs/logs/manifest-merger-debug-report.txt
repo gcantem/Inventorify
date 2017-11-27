@@ -5,6 +5,7 @@ INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/Androi
 INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml:2:1-44:12
 INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml:2:1-44:12
 MERGED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:17:1-31:12
+MERGED from [co.dift.ui.swipetoaction:library:1.1] /home/raider/.gradle/caches/transforms-1/files-1.1/library-1.1.aar/1c81b4b5af6bd69ac9ca76d5f2d2609f/AndroidManifest.xml:2:1-14:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84c42ef246d515d8f167d48eda9b2239/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/0fbbc215d2aa95c99319bceefcacbb89/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/a57205a4c895410e50d4d7e701c3e84e/AndroidManifest.xml:21:1-31:12
@@ -18,9 +19,6 @@ MERGED from [com.google.firebase:firebase-auth:11.4.2] /home/raider/.gradle/cach
 MERGED from [com.google.android.gms:play-services-auth:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.4.2.aar/3218b6dd6143e2ec04a4629f176d1bf9/AndroidManifest.xml:16:1-26:12
 MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/raider/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/bd834a9bc9ca9ed781da389e2c10252d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/c42a0b063e141d60ecbdadc3aa05e185/AndroidManifest.xml:2:1-6:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:17:1-26:12
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/6716eb8b2f4a1a6e652553998d58cf0e/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/8443a2618773eb07e68871507e44122a/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/e4fcf0b6811e50aa26dd7cb997e619dc/AndroidManifest.xml:21:1-31:12
@@ -41,11 +39,14 @@ MERGED from [me.dm7.barcodescanner:core:1.9] /home/raider/.gradle/caches/transfo
 MERGED from [com.android.support:support-v4:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a57f94371d0a2b0ef81d97e2c5644a9a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6901257edc69b52a57a7f316fa143cd5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.4.2.aar/20622e3991e9551ee2c77aaafbea3f0c/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.4.2.aar/9453d741c91b727d91ecbf770a7d6878/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-auth-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.4.2.aar/33b4f4e5cc80008efa3ad708eb26b4dc/AndroidManifest.xml:2:1-6:12
@@ -98,6 +99,8 @@ application
 ADDED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml:8:5-42:19
 MERGED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:29:5-20
+MERGED from [co.dift.ui.swipetoaction:library:1.1] /home/raider/.gradle/caches/transforms-1/files-1.1/library-1.1.aar/1c81b4b5af6bd69ac9ca76d5f2d2609f/AndroidManifest.xml:12:5-20
+MERGED from [co.dift.ui.swipetoaction:library:1.1] /home/raider/.gradle/caches/transforms-1/files-1.1/library-1.1.aar/1c81b4b5af6bd69ac9ca76d5f2d2609f/AndroidManifest.xml:12:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84c42ef246d515d8f167d48eda9b2239/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84c42ef246d515d8f167d48eda9b2239/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/0fbbc215d2aa95c99319bceefcacbb89/AndroidManifest.xml:28:5-29:19
@@ -120,10 +123,6 @@ MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/raider/.gradle/caches/transf
 MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/raider/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/bd834a9bc9ca9ed781da389e2c10252d/AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-core:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/c42a0b063e141d60ecbdadc3aa05e185/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/c42a0b063e141d60ecbdadc3aa05e185/AndroidManifest.xml:5:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:26:5-20
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/6716eb8b2f4a1a6e652553998d58cf0e/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/6716eb8b2f4a1a6e652553998d58cf0e/AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/8443a2618773eb07e68871507e44122a/AndroidManifest.xml:28:5-29:19
@@ -156,16 +155,20 @@ MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/c
 MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6901257edc69b52a57a7f316fa143cd5/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.4.2.aar/20622e3991e9551ee2c77aaafbea3f0c/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.4.2.aar/20622e3991e9551ee2c77aaafbea3f0c/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.4.2.aar/9453d741c91b727d91ecbf770a7d6878/AndroidManifest.xml:5:5-20
@@ -260,6 +263,8 @@ INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/Androi
 INJECTED from /home/raider/AndroidStudioProjects/Inventorify/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:21:5-23:62
+MERGED from [co.dift.ui.swipetoaction:library:1.1] /home/raider/.gradle/caches/transforms-1/files-1.1/library-1.1.aar/1c81b4b5af6bd69ac9ca76d5f2d2609f/AndroidManifest.xml:8:5-10:41
+MERGED from [co.dift.ui.swipetoaction:library:1.1] /home/raider/.gradle/caches/transforms-1/files-1.1/library-1.1.aar/1c81b4b5af6bd69ac9ca76d5f2d2609f/AndroidManifest.xml:8:5-10:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84c42ef246d515d8f167d48eda9b2239/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84c42ef246d515d8f167d48eda9b2239/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/0fbbc215d2aa95c99319bceefcacbb89/AndroidManifest.xml:24:5-26:41
@@ -286,12 +291,6 @@ MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/raider/.gradle/caches/transf
 MERGED from [me.dm7.barcodescanner:zxing:1.9] /home/raider/.gradle/caches/transforms-1/files-1.1/zxing-1.9.aar/bd834a9bc9ca9ed781da389e2c10252d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/c42a0b063e141d60ecbdadc3aa05e185/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/c42a0b063e141d60ecbdadc3aa05e185/AndroidManifest.xml:4:5-43
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/6716eb8b2f4a1a6e652553998d58cf0e/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-places:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/6716eb8b2f4a1a6e652553998d58cf0e/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/raider/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/8443a2618773eb07e68871507e44122a/AndroidManifest.xml:24:5-26:41
@@ -332,16 +331,22 @@ MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/c
 MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6901257edc69b52a57a7f316fa143cd5/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.4.2.aar/20622e3991e9551ee2c77aaafbea3f0c/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.4.2.aar/20622e3991e9551ee2c77aaafbea3f0c/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-storage-license:11.4.2] /home/raider/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.4.2.aar/9453d741c91b727d91ecbf770a7d6878/AndroidManifest.xml:4:5-43
@@ -388,12 +393,6 @@ meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/852b93069a205373bba729a2354d092f/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/852b93069a205373bba729a2354d092f/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:transition:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/757b305ce831e98e42fcfcd413553f55/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:transition:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/757b305ce831e98e42fcfcd413553f55/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a57f94371d0a2b0ef81d97e2c5644a9a/AndroidManifest.xml:25:5-27:34
@@ -402,16 +401,22 @@ MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/c
 MERGED from [com.android.support:support-fragment:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6901257edc69b52a57a7f316fa143cd5/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/2954683d4f7d7b6c2ede5a3ef89f7bd4/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:customtabs:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/ac83c33245aa0deef3dce2da17c39101/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/620f0a6c6a6bd4d9f47c616a6ad1a94e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/1873e69a8e05d2034a657e42b4c2cf43/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/812b36f62ec20677c6ee8ddde7da02d4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8cf3a0967167ff6301eaff3b420e04c4/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/853839ee01f76573de08fe02804f533c/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/519577931f60100d65d70d83df02ef3d/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/0057a18f55e536e1e159e36e4d8f2ba7/AndroidManifest.xml:22:5-24:34
 	android:value
 		ADDED from [com.android.support:design:25.3.1] /home/raider/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/83d1fb4c7fefb89d95cdf569ca6ef58b/AndroidManifest.xml:27:9-31
 	android:name
